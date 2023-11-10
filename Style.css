@@ -1,0 +1,23 @@
+body{
+    background-image: url(fotos/wp7590983-2k-space-wallpapers.jpg);
+    background-size: 100%;
+    text-align: center;
+}
+
+.git, .github{
+    border-radius: 1000cm;
+    width: 300px;
+
+}
+
+h1{
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.498);
+    font-size: 200%;
+}
+
+p{
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.498);
+    font-size: 150%;
+}
