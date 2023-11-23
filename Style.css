@@ -1,0 +1,106 @@
+body {
+    background-image: url(wp11792915-4k-space-city-mobile-wallpapers.jpg);
+    background-size: 100%;
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Sometype Mono', monospace;
+}
+
+@media only screen and (max-width: 800px) {
+    img{
+        margin-right: 10%;
+        width: 20%;
+        height: 20%;
+    }                                                                                                                            
+}
+
+.into {
+    background-color: rgba(0, 0, 0, 0.546);
+    color: #ffffff;
+    font-size: 150%;
+
+
+}
+
+.git,
+.github {
+    border-radius: 1000cm;
+    width: 280px;
+    margin: 40px 20px 20px 20px;
+}
+
+h2 {
+    color: #000000;
+    background-color: rgba(239, 226, 226, 0.598);
+    font-size: 150%;
+}
+
+.flex-container {
+    display: flex;
+    align-items: center;
+}
+
+.flex-item2 {
+    background-color: rgba(0, 0, 0, 0.546);
+    color: #ffffff;
+    font-size: 150%;
+
+}
+
+.info {
+    background-color: rgba(0, 0, 0, 0.546);
+    color: #ffffff;
+    font-size: 150%;
+}
+
+
+.flex-item4 {
+    background-color: rgba(0, 0, 0, 0.546);
+    color: #ffffff;
+    font-size: 150%;
+}
+
+.clone {
+    background-color: rgba(0, 0, 0, 0.546);
+    color: #ffffff;
+    font-size: 150%;
+}
+
+.branch {
+    background-color: rgba(0, 0, 0, 0.546);
+    color: #ffffff;
+    font-size: 150%;
+}
+
+.commit {
+    background-color: rgba(0, 0, 0, 0.546);
+    color: #ffffff;
+    font-size: 150%;
+}
+
+.merge {
+    background-color: rgba(0, 0, 0, 0.546);
+    color: #ffffff;
+    font-size: 150%;
+}
+
+.pullRequest {
+    background-color: rgba(0, 0, 0, 0.546);
+    color: #ffffff;
+    font-size: 150%;
+}
+
+.pull {
+    background-color: rgba(0, 0, 0, 0.546);
+    color: #ffffff;
+    font-size: 150%;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.371);
+    color: #ffffff;
+    font-size: 20px;
+    text-align: right;
+}
